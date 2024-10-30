@@ -5,7 +5,6 @@
 <br />
 <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/tabishfarhan_7/?next=https%3A%2F%2Fwww.instagram.com%2Fnassosanagn_%2F%3Fhl%3Del&hl=el" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/md-tabish-farhan/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/tabishfarhan7" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
 <!--<h4 align="center">sponsors</h4>
-<p align="center"></p>-->
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -13,9 +12,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
@@ -27,11 +28,6 @@
 
 ###
 
-<div align="left">
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/tabishfarhan7/count.svg?"  />
 </div>
@@ -39,11 +35,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.app.goo.gl/bXUHMRa83P5YLLnp8"  />
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/tabishfarhan7/tabishfarhan7/output/snake.svg" alt="Snake animation" />
 
 ###
