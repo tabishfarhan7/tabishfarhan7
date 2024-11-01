@@ -58,4 +58,8 @@
   
   </tr>
 </table>
+[![GitHub Streak](https://streak-stats.demolab.com?user=tabishfarhan7&theme=dark&hide_total_contributions=true&hide_current_streak=true)](https://git.io/streak-stats)
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
