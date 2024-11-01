@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Md Tabish+Front+end+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alikhazaeii&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
 <h3 align="center" font-size='25px'>My favorite tools and technologies</h3>
 
