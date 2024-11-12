@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/mgks/zen"><img width="200" src="https://mgks.dev/assets/icons/zen.gif" title="zen by @qtqr8r" ref="Zen by QTQR8R - http://www.ivyiby.com/zen"></a>
+  <a href="[Hablador Ronaldo GIF - Hablador Ronaldo - Discover   Share GIFs](https://github.com/user-attachments/assets/a77ea97f-70a1-47c7-aed4-a1acfa81fd98)"><img width="200" src="[Hablador Ronaldo GIF - Hablador Ronaldo - Discover   Share GIFs](https://github.com/user-attachments/assets/a77ea97f-70a1-47c7-aed4-a1acfa81fd98)"  title="zen by @qtqr8r" ref="Zen by QTQR8R - http://www.ivyiby.com/zen"></a>
 </p>
 <h4 align="center">Hello there! I'm Mohammad Tabish and welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time.</h4>
 <br />
