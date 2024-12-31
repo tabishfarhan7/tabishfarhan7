@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/download.gif"><img width="340" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/download.gif"  title="CALMA BY MOHAMMAD TABISH" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
+  <a href="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/download%20(4).jpg"><img width="340" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/download%20(4).jpg"  title="EL BICHO BY MOHAMMAD TABISH" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
 </p>
 <h4 align="center">Hello there! I'm Mohammad Tabish and welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time.</h4>
 <br />
