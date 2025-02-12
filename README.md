@@ -5,8 +5,14 @@
 <br />
 
 <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/tabishfarhan_7/?next=https%3A%2F%2Fwww.instagram.com%2Fnassosanagn_%2F%3Fhl%3Del&hl=el" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/md-tabish-farhan/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/tabishfarhan7" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
+  <p align="center">
+  <a href="https://github.com/tabishfarhan7/tabishfarhan7/edit/main/README.md">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Mohammad Tabish" /></a>
+</p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Md Tabish+Full+Stack+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/tabishfarhan7">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
