@@ -7,7 +7,7 @@
 <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/tabishfarhan_7/?next=https%3A%2F%2Fwww.instagram.com%2Fnassosanagn_%2F%3Fhl%3Del&hl=el" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/md-tabish-farhan/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/tabishfarhan7" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
   <p align="center">
   <a href="https://github.com/tabishfarhan7/tabishfarhan7/edit/main/README.md">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Mohammad Tabish" /></a>
+    <img width = "300" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/64cb97ef-b1a9-4757-b8f6-95272709f5f4.jpg" alt="Mohammad Tabish" /></a>
 </p>
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
