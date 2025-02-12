@@ -3,10 +3,14 @@
 </p>
 <h4 align="center">Hello there! I'm Mohammad Tabish and welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time.</h4>
 <br />
+<p align="center">
+  <code>powered by curiosity and questionable decisions — let's code something awesome!</code>
+</p>
 <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/tabishfarhan_7/?next=https%3A%2F%2Fwww.instagram.com%2Fnassosanagn_%2F%3Fhl%3Del&hl=el" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/md-tabish-farhan/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://github.com/tabishfarhan7" title="Be my Patron"><img width="32" src="https://mgks.dev/assets/icons/ic-heart.png"></a><br />
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+welcome+To my Github!;Md Tabish+Full+Stack+developer !; check+my+Repository!; hope+you+enjoy!&font=Fira%20Code&center=true&width=400&height=65&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
 <h3 align="center" font-size='25px'>My favorite tools and technologies</h3>
