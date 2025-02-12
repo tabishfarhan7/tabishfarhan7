@@ -71,5 +71,4 @@
 <p align="center">
   <code>powered by curiosity and questionable decisions — let's code something awesome!</code>
 </p>
-
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
