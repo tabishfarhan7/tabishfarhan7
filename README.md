@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="[https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif](https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Real%20Madrid%20Football%20GIF%20by%20UEFA%20-%20Find%20%26%20Share%20on%20GIPHY.gif)"><img width="350" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Real%20Madrid%20Football%20GIF%20by%20UEFA%20-%20Find%20%26%20Share%20on%20GIPHY.gif"  title="GOATT 🐐" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
+  <a href="[https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/pinterestdownloader.com-1739268366.629449.gif](https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Real%20Madrid%20Football%20GIF%20by%20UEFA%20-%20Find%20%26%20Share%20on%20GIPHY.gif)"><img width="350" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Real%20Madrid%20Football%20GIF%20by%20UEFA%20-%20Find%20%26%20Share%20on%20GIPHY.gif"  title="HALA MADRID Y NADA MAS!👑" ref="https://www.instagram.com/tabishfarhan_7/?hl=el"></a>
 </p>
 <h4 align="center">Hello there! I'm Mohammad Tabish and welcome to my github, I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time.</h4>
 <br />
