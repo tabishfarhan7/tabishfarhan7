@@ -13,7 +13,7 @@
 </p>
 <p align="center">
   <a href="https://github.com/tabishfarhan7/tabishfarhan7/edit/main/README.md">
-    <img width = "200" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Hala%20Madrid.png" alt="Mohammad Tabish" /></a>
+    <img width = "200" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/Hala%20Madrid.png" title="Madrid, Madrid, Madrid"  alt="Mohammad Tabish" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="alikhazaeii" /> </p>
 
