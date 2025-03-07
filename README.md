@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://mgks.github.io/zen"><img width="280" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.gif" title="Salam by Tabish" ref="Zen by QTQR8R"></a>
+  <a href="https://mgks.github.io/zen"><img width="280" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.png" title="Salam by Tabish" ref="Zen by QTQR8R"></a>
 </p>
 <h4 align="center">
   👋 Hello there! I'm Mohammad Tabish and welcome to my github, I spend most of my time building for the web and pushing open source projects into the wild — sometimes intentionally, sometimes by accident.
