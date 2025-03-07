@@ -1,6 +1,9 @@
 <p align="center">
-  <a href="salam-beta.vercel.app"><img width="250" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.png" title="Salam from Tabish" ref="Salam from Tabish"></a>
+  <a href="https://salam-beta.vercel.app">
+    <img width="250" src="https://github.com/tabishfarhan7/tabishfarhan7/blob/main/assets/zen.png" title="Salam from Tabish" alt="Salam from Tabish">
+  </a>
 </p>
+
 <h4 align="center">
   👋 Hello there! I'm Mohammad Tabish and welcome to my github, I spend most of my time building for the web and pushing open source projects into the wild — sometimes intentionally, sometimes by accident.
 <br/><br/>
