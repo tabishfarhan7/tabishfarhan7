@@ -9,7 +9,7 @@
 <br/><br/>
   I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time — until then, it’s caffeine, chaos, and commits.<br/><br/>
   Code → Deploy → Repeat.  <br/><br/>
-Full-stack dev | ML dabbler | Cloud enthusiast
+<!-- Full-stack dev | ML dabbler | Cloud enthusiast -->
 <!-- Current mission: Building AI-powered web apps without overengineering them.   -->
 </h4>
 <br />
