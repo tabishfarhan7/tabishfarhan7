@@ -7,7 +7,8 @@
 <h4 align="center">
   👋 Hello there! I'm Mohammad Tabish and welcome to my github, I spend most of my time building for the web and pushing open source projects into the wild — sometimes intentionally, sometimes by accident.
 <br/><br/>
-  I usually do web, cloud tech, sulking and some open source. these days I'm exploring python, machine learning and depression, and I hope to have them all just the right amount this time — until then, it’s caffeine, chaos, and commits.<br/><br/>
+ I work with web technologies, cloud computing, and open source projects. Lately, I’ve been exploring Python and machine learning — balancing curiosity with a dose of caffeine, chaos, and commits.<br/><br/>
+<br/><br/>
   Code → Deploy → Repeat.  <br/><br/>
 <!-- Full-stack dev | ML dabbler | Cloud enthusiast -->
 <!-- Current mission: Building AI-powered web apps without overengineering them.   -->
