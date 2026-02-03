@@ -17,7 +17,7 @@
 
 
 <p align="center">
- <p align="center"><!-- &nbsp; <a href="https://mgks.dev" title="Blog: mgks.dev"><img title="zen by @qtqr8r" width="32" src="https://mgks.dev/assets/icons/mgks.dev-logo-192.png" /></a>&nbsp; --><a href="https://www.instagram.com/tabishfarhan_7/?next=https%3A%2F%2Fwww.instagram.com%2Fnassosanagn_%2F%3Fhl%3Del&hl=el" title="Instagram"><img width="32" src="https://mgks.dev/assets/icons/insta-23.png" /></a> &nbsp; <a href="https://www.linkedin.com/in/md-tabish-farhan/" title="LinkedIn"><img width="32" src="https://mgks.dev/assets/icons/linkedin-23.png" /></a> &nbsp; <a href="https://leetcode.com/u/tabishfarhan853/" title="LeetCode"><img width="32" src="https://img.icons8.com/?size=100&id=fiCYSJOnXi7E&format=png&color=000000"></a><br />
+ <a href="https://leetcode.com/u/tabishfarhan853/" title="LeetCode"><img width="32" src="https://img.icons8.com/?size=100&id=fiCYSJOnXi7E&format=png&color=000000"></a><br />
 </p>
 
 
