@@ -17,7 +17,7 @@
 
 
 <p align="center">
- <a href="https://leetcode.com/u/tabishfarhan853/" title="LeetCode"><img width="32" src="https://img.icons8.com/?size=100&id=fiCYSJOnXi7E&format=png&color=000000"></a><br />
+ <a href="https://leetcode.com/u/tabishfarhan7/" title="LeetCode"><img width="32" src="https://img.icons8.com/?size=100&id=fiCYSJOnXi7E&format=png&color=000000"></a><br />
 </p>
 
 
