@@ -31,6 +31,6 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tabishfarhan7&label=Profile%20views&color=0e75b6&style=flat" alt="TabishFarhan" /> </p>
 <p align="center">
-  <code>powered by curiosity and questionable decisions, let's code something awesome!</code>
+  <code>powered by curiosity and questionable decisions - let's code something awesome!</code>
 </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
